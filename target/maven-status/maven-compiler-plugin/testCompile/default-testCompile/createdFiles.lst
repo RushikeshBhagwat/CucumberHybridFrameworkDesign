@@ -1,0 +1,8 @@
+StepDefinitions\AccountsPageStepDef.class
+StepDefinitions\loginStepDef.class
+parallelonlyforTestNG\AccountsPageStepDef.class
+parallelonlyforTestNG\loginStepDef.class
+parallelonlyforTestNG\ApplicationHooks.class
+parallelonlyforTestNG\ParallelRun.class
+Hooks\ApplicationHooks.class
+testRunners\MyTestRunner.class
